@@ -1,2 +1,4 @@
-# App-Dev
-My First Repository
+My Favourite series
+jujutsu kaisen
+one punch man
+taxi driver
